@@ -60,7 +60,7 @@ export const addToSessionHistory = async (companionId: string) => {
     const supabase = createSupabaseClient();
     const { data, error } = await supabase.from('session_history')
         .insert({
-            companions_id: companionId,
+            companion_id: companionId,
             user_id: userId,
         })
 
