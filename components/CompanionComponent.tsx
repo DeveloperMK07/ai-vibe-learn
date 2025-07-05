@@ -39,7 +39,7 @@ const CompanionComponent = ({ companionId, subject, topic, name, userName, userI
 
         const onCallEnd = () => {
             setCallStatus(CallStatus.FINISHED);
-            addToSessionHistory(companionId)
+            addToSessionHistory(companionId);
         }
 
         const onMessage = (message: Message) => {
