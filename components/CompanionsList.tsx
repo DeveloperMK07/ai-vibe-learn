@@ -1,6 +1,4 @@
-import {cn , getSubjectColor} from "@/lib/utils";
-import Link from "next/link";
-import Image from "next/image";
+
 import {
     Table,
     TableBody,
@@ -10,6 +8,9 @@ import {
     TableHeader,
     TableRow,
 } from "@/components/ui/table"
+import {cn, getSubjectColor} from "@/lib/utils";
+import Link from "next/link";
+import Image from "next/image";
 
 interface CompanionsListProps {
     title: string;
@@ -59,12 +60,12 @@ const CompanionsList = ({ title, companions, classNames }: CompanionsListProps) 
                                     {subject}
                                 </div>
                                 <div className="flex items-center justify-center rounded-lg w-fit p-2 md:hidden" style={{backgroundColor: getSubjectColor(subject)}}>
-                                    <Image
-                                        src={`/icons/${subject}.svg`}
-                                        alt={subject}
-                                        width={18}
-                                        height={18}
-                                    />
+                            <Image
+                                src={`/icons/${subject}.svg`}
+                                alt={subject}
+                                width={18}
+                                height={18}
+                            />
                                 </div>
                             </TableCell>
                             <TableCell>
@@ -83,4 +84,5 @@ const CompanionsList = ({ title, companions, classNames }: CompanionsListProps) 
         </article>
     )
 }
-export default CompanionsList
+
+export default CompanionsList;
