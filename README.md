@@ -1,9 +1,7 @@
-# 🎓 Vibe Learn AI — Your Personal AI-Powered Tutor
-
 <p align="center">
   <img src="./public/assets/header.png" alt="Vibe Learn AI Banner" width="100%" height="280%" />
 </p>
-
+# 🎓 Vibe Learn AI — Your Personal AI-Powered Tutor
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Built%20with-Next.js-000?logo=nextdotjs&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
@@ -16,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live App](https://your-vibe-learn-app.vercel.app)
+👉 [Visit the Live App]Click Here(https://ai-vibe-learn.vercel.app/)
 
 ---
 
@@ -66,3 +64,32 @@
 git clone https://github.com/adrianhajdin/saas-app.git
 cd saas-app
 npm install
+```
+---
+## ⚙️ Environment Setup
+
+```bash
+# Sentry
+SENTRY_AUTH_TOKEN=
+
+# Vapi
+NEXT_PUBLIC_VAPI_WEB_TOKEN=
+
+# Clerk
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+# Supabase
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+```
+---
+## 💡 Why Vibe Learn AI?
+
+We believe learning should be personal, fun, and instantly accessible.
+With Vibe Learn AI, you can talk to subject-specific tutors built with AI voice agents—whenever you want.
+
+
