@@ -1,7 +1,7 @@
 # 🎓 Vibe Learn AI — Your Personal AI-Powered Tutor
 
 <p align="center">
-  <img src="./public/assets/header.png" alt="Vibe Learn AI Banner" width="100%" height="auto" />
+  <img src="./public/assets/header.png" alt="Vibe Learn AI Banner" width="100%" height="50%" />
 </p>
 
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&style=for-the-badge)
