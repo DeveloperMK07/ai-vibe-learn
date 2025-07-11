@@ -1,18 +1,18 @@
 
 
 # 🎓 Vibe Learn AI — Your Personal AI-Powered Tutor
+
+
 <p align="center">
-  
-  ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&style=for-the-badge)
-  ![Next.js](https://img.shields.io/badge/Built%20with-Next.js-000?logo=nextdotjs&style=for-the-badge)
-  ![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-  ![Clerk](https://img.shields.io/badge/Auth-Clerk-3C2EF3?logo=clerk&logoColor=white&style=for-the-badge)
-  ![Stripe](https://img.shields.io/badge/Payments-Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge) 
-  <p align="center">
-    
-  ![Tailwind](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-  ![TypeScript](https://img.shields.io/badge/Code-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) 
-  </p>
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Built%20with-Next.js-000?logo=nextdotjs&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth-Clerk-3C2EF3?logo=clerk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Payments-Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
 </p>
 
 ## 🌐 Live Demo
