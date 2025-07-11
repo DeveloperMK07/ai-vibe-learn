@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./public/assets/header.png" alt="Vibe Learn AI Banner" width="100%" height="280%" />
+  <img src="./public/assets/header.png" alt="Vibe Learn AI Banner" width="100%" height="300%" />
 </p>
 # 🎓 Vibe Learn AI — Your Personal AI-Powered Tutor
+
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Built%20with-Next.js-000?logo=nextdotjs&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
