@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/assets/header.png" alt="Vibe Learn AI Banner" width="80%" height="auto" />
+  <img src="./public/assets/header.png" alt="Vibe Learn AI Banner" width="65%" height="auto" />
 </p>
 
 # 🎓 Vibe Learn AI — Your Personal AI-Powered Tutor
